@@ -11,7 +11,7 @@ Membuat 3 bilangan berbeda memakai statment "if" adalah sebagai berikut:
 
 4. Setelah semua sesuai, lanjut run f5. maka tampilan akan seperti dibawah ini saat kita memasukan angka random nilai :
    
-![nilai valen](https://github.com/user-attachments/assets/ac5a090c-b1a2-4f5a-8470-7263533e4275)
+![statment if](https://github.com/user-attachments/assets/afdd1476-c8f8-4e8c-9b6d-d6e4c7b0788e)
 
 5. berikut ini flowchartnya :
 
